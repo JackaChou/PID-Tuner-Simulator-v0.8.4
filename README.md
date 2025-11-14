@@ -2,7 +2,7 @@
 
 An interactive, web-based PID tuning simulator with a response optimization auto-tuner. This platform is specifically designed for educational purposes in process control, automation, and related engineering courses.
 
-Developed by **Wenjin Zhou** from the Taiyuan University of Technology.
+Developed by **Wenjin Zhou** from Taiyuan University of Technology.
 
 ---
 
